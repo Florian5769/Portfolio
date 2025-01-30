@@ -14,45 +14,41 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            With a Master's degree (Bac +5) in {" "} 
+            With a Master's degree in {" "} 
                 <b className="purple">
                 Information Systems Engineering. 👨‍💻
                 </b>  
               <br />
-              <br />I am fluent in classics like
+              <br />I bring over 3 years of hands-on experience in full-stack development. Proficient in modern web technologies, I specialize in building scalable applications using 
               <i>
-                <b className="purple"> Javascript, C++, Html and CSS. </b>
+                <b className="purple"> JavaScript, React.js, and NodeJS. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My expertise extends to developing responsive user interfaces and RESTful APIs, with a foundation in &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
+                <b className="purple">software architecture </b> and
+                {" "}
                 <b className="purple">
-                  IA.
+                agile methodologies.
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              Currently focused on modern web frameworks and microservices architecture, I have successfully led multiple projects in <b className="purple">public service digitalization.</b> I am particularly interested in leveraging
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  artificial intelligence to enhance web applications
                 </b>
               </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              &nbsp; and I stay current with emerging technologies in the field.
               <br />
               <br />
               <i>
-              I am looking for a developer job for my arrival in.{" "}
+              As I prepare for my relocation to Sweden, I am seeking opportunities to contribute my technical expertise to innovative projects while embracing {" "}
                 <b className="purple">
-                Sweden.
+                the collaborative Swedish tech ecosystem.
                 </b>
               </i>
             </p>
