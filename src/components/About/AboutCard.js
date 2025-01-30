@@ -32,9 +32,8 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Relocating to Gothenburg Summer 2025 | References available upon request."{" "}
           </p>
-          <footer className="blockquote-footer">Spedalotto</footer>
         </blockquote>
       </Card.Body>
     </Card>
