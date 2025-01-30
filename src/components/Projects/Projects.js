@@ -23,8 +23,13 @@ function Projects() {
             <ProjectCard
               imgPath={Beall}
               isBlog={false}
-              title="Plant AI"
-              description="bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla sbla bla bla bla bla bla bla bla bla bla ."
+              title="Be All"
+              description="Sports Information Platform
+
+                    Development of an innovative web platform dedicated to sports information, designed to offer an alternative to existing market solutions. The project consists of three components: an admin desktop application (Electron) for back-office management, a public web application (React/Angular) enabling live match tracking, article creation and podcasts, and a centralized backend API.
+                    Key Technologies: Frontend: React, Backend: RESTful API, Desktop: Electron (Node.js).
+
+                    The project demonstrates my full-stack development skills and ability to design a complete solution, from user interface to backend architecture, using modern web technologies."
             />
           </Col>
 
